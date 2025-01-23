@@ -1,0 +1,152 @@
+<apps version="2.0">
+  <app keywords="mtb-flow,psoc4" req_capabilities_v2="psoc4">
+    <name>WDT Interrupt and Reset</name>
+    <id>mtb-hv-example-psoc4-wdt-interrupt-reset</id>
+    <category>Additional</category>
+    <uri>https://github.com/Infineon/mtb-hv-example-psoc4-wdt-interrupt-reset</uri>
+    <description><![CDATA[This example demonstrates how watchdog timer works with the interrupt mode and the reset mode.
+    <br><br>For more details, see the <a href="https://github.com/Infineon/mtb-hv-example-psoc4-wdt-interrupt-reset/blob/main/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>psoc4</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="3.1.0" req_capabilities_per_version_v2="[bsp_gen4] [kit_psoc4_hvms_128k_lite,kit_psoc4_hvms_64k_lite]">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="mtb-flow,psoc4" req_capabilities_v2="psoc4">
+    <name>TCPWM Timer</name>
+    <id>mtb-hv-example-psoc4-tcpwm-timer</id>
+    <category>Additional</category>
+    <uri>https://github.com/Infineon/mtb-hv-example-psoc4-tcpwm-timer</uri>
+    <description><![CDATA[This code example shows how to configure the timer function using TCPWM (Timer and Counter) block and describes its operation and initial settings.
+    <br><br>For more details, see the <a href="https://github.com/Infineon/mtb-hv-example-psoc4-tcpwm-timer/blob/main/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>psoc4</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="3.1.0" req_capabilities_per_version_v2="[bsp_gen4] [kit_psoc4_hvms_128k_lite,kit_psoc4_hvms_64k_lite]">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="mtb-flow,psoc4" req_capabilities_v2="psoc4">
+    <name>TCPWM Dead Time</name>
+    <id>mtb-hv-example-psoc4-tcpwm-pwm-dt</id>
+    <category>Additional</category>
+    <uri>https://github.com/Infineon/mtb-hv-example-psoc4-tcpwm-pwm-dt</uri>
+    <description><![CDATA[This code example shows TCPWM dead time mode function as the PWM dead time mode.
+    <br><br>For more details, see the <a href="https://github.com/Infineon/mtb-hv-example-psoc4-tcpwm-pwm-dt/blob/main/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>psoc4</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="3.1.0" req_capabilities_per_version_v2="[bsp_gen4] [kit_psoc4_hvms_128k_lite,kit_psoc4_hvms_64k_lite]">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="mtb-flow,psoc4" req_capabilities_v2="psoc4">
+    <name>Blocking Flash Write</name>
+    <id>mtb-hv-example-psoc4-flash-blocking-write</id>
+    <category>Additional</category>
+    <uri>https://github.com/Infineon/mtb-hv-example-psoc4-flash-blocking-write</uri>
+    <description><![CDATA[This code example shows how to write flash memory row.
+    <br><br>For more details, see the <a href="https://github.com/Infineon/mtb-hv-example-psoc4-flash-blocking-write/blob/main/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>psoc4</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="3.1.0" req_capabilities_per_version_v2="[bsp_gen4] [kit_psoc4_hvms_128k_lite,kit_psoc4_hvms_64k_lite]">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="mtb-flow,psoc4" req_capabilities_v2="psoc4">
+    <name>DMA Data Transfer with Descriptor Chain</name>
+    <id>mtb-hv-example-psoc4-dmac-descriptor-chaining</id>
+    <category>Additional</category>
+    <uri>https://github.com/Infineon/mtb-hv-example-psoc4-dmac-descriptor-chaining</uri>
+    <description><![CDATA[This code example shows how to transfer data from source memory to destination memory using the descriptor chain of the Direct Memory Access (DMA) to implement.
+    <br><br>For more details, see the <a href="https://github.com/Infineon/mtb-hv-example-psoc4-dmac-descriptor-chaining/blob/main/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>psoc4</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="3.1.0" req_capabilities_per_version_v2="[bsp_gen4] [kit_psoc4_hvms_128k_lite,kit_psoc4_hvms_64k_lite]">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="mtb-flow,psoc4" req_capabilities_v2="psoc4">
+    <name>DMA 1D Transfer</name>
+    <id>mtb-hv-example-psoc4-dmac-1d-transfer</id>
+    <category>Additional</category>
+    <uri>https://github.com/Infineon/mtb-hv-example-psoc4-dmac-1d-transfer</uri>
+    <description><![CDATA[This code example shows how to transfer data from source memory to destination memory using 1D transfer of the Direct Memory Access (DMA) function to implement.
+    <br><br>For more details, see the <a href="https://github.com/Infineon/mtb-hv-example-psoc4-dmac-1d-transfer/blob/main/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>psoc4</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="3.1.0" req_capabilities_per_version_v2="[bsp_gen4] [kit_psoc4_hvms_128k_lite,kit_psoc4_hvms_64k_lite]">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="mtb-flow,psoc4" req_capabilities_v2="psoc4">
+    <name>CAPSENSE low power</name>
+    <id>mtb-hv-example-psoc4-capsense-low-power</id>
+    <category>Additional</category>
+    <uri>https://github.com/Infineon/mtb-hv-example-psoc4-capsense-low-power</uri>
+    <description><![CDATA[This code example demonstrates an implementation of a low-power CAPSENSE&trade design using the PSOC&trade 4 MCU. This example features the CAPSENSE&trade buttons. It scans all the widgets and then processes the scanned data.
+    <br><br>For more details, see the <a href="https://github.com/Infineon/mtb-hv-example-psoc4-capsense-low-power/blob/main/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>psoc4</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="3.1.0" req_capabilities_per_version_v2="[bsp_gen4] [kit_psoc4_hvms_128k_lite,kit_psoc4_hvms_64k_lite]">
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="mtb-flow,psoc4" req_capabilities_v2="psoc4">
+    <name>CAPSENSE multi-frequency scan</name>
+    <id>mtb-hv-example-psoc4-capsense-multi-frequency-scan</id>
+    <category>Additional</category>
+    <uri>https://github.com/Infineon/mtb-hv-example-psoc4-capsense-multi-frequency-scan</uri>
+    <description><![CDATA[This code example demonstrates the use of the multi-frequency scan (MFS) for PSOC&trade 4 CAPSENSE&trade applications to prevent false touch detection in the presence of external noise.
+    <br><br>For more details, see the <a href="https://github.com/Infineon/mtb-hv-example-psoc4-capsense-multi-frequency-scan/blob/main/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>psoc4</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="3.1.0" req_capabilities_per_version_v2="[bsp_gen4] [kit_psoc4_hvms_128k_lite,kit_psoc4_hvms_64k_lite]">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="mtb-flow,psoc4" req_capabilities_v2="psoc4">
+    <name>CAPSENSE Pipeline scan and process</name>
+    <id>mtb-hv-example-psoc4-capsense-pipeline-scan-and-process</id>
+    <category>Additional</category>
+    <uri>https://github.com/Infineon/mtb-hv-example-psoc4-capsense-pipeline-scan-and-process</uri>
+    <description><![CDATA[This code example demonstrates how to implement pipeline scanning in CAPSENSE&trade to improve performance. When a particular widget is being processed, the next widget in line can be scanned in parallel.
+    <br><br>For more details, see the <a href="https://github.com/Infineon/mtb-hv-example-psoc4-capsense-pipeline-scan-and-process/blob/main/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>psoc4</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="3.1.0" req_capabilities_per_version_v2="[bsp_gen4] [kit_psoc4_hvms_128k_lite,kit_psoc4_hvms_64k_lite]">
+        <num>Latest 2.X release</num>
+        <commit>latest-v2.X</commit>
+      </version>
+    </versions>
+  </app>
+  <app keywords="mtb-flow,psoc4" req_capabilities_v2="psoc4">
+    <name>CAPSENSE CSX button tuning</name>
+    <id>mtb-hv-example-psoc4-msc-capsense-csx-button-tuning</id>
+    <category>Additional</category>
+    <uri>https://github.com/Infineon/mtb-hv-example-psoc4-msc-capsense-csx-button-tuning</uri>
+    <description><![CDATA[his code example demonstrates how to use the CAPSENSE&trade middleware to detect a finger touch on a mutual-capacitance-based button widget in PSOC&trade 4 devices with multi sense converter (MSC).
+    <br><br>For more details, see the <a href="https://github.com/Infineon/mtb-hv-example-psoc4-msc-capsense-csx-button-tuning/blob/main/README.md">README on GitHub</a>.]]></description>
+    <req_capabilities>psoc4</req_capabilities>
+    <versions>
+      <version flow_version="2.0" tools_min_version="3.1.0" req_capabilities_per_version_v2="[bsp_gen4] [kit_psoc4_hvms_128k_lite,kit_psoc4_hvms_64k_lite]">
+        <num>Latest 1.X release</num>
+        <commit>latest-v1.X</commit>
+      </version>
+    </versions>
+  </app>
+</apps>
